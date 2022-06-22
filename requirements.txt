@@ -72,7 +72,7 @@ nest-asyncio==1.4.3
 newspaper3k==0.2.8
 nltk==3.5
 notebook==6.1.6
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-python==4.5.1.48
 opt-einsum==3.3.0
